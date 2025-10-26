@@ -1,0 +1,4 @@
+Field,Type,Null,Key,Default,Extra
+sku_id,int,YES,,NULL,
+dark_store_id,int,YES,,NULL,
+date,date,YES,,NULL,
